@@ -6,7 +6,7 @@ sox==1.4.1
 sentencepiece==0.1.94
 pandas==1.1.5
 tqdm==4.46.1
-pyyaml==5.3
+pyyaml==6.0
 onnx==1.8.1
 wandb==0.12.1
 numba>=0.52.0
