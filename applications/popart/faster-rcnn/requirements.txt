@@ -8,5 +8,5 @@ onnx
 tqdm
 scipy
 PyYAML==5.4.1
-torch==1.10.0+cpu
+torch==1.11.0
 torchvision==0.11.1+cpu
