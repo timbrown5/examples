@@ -19,7 +19,7 @@ scipy==1.5.4
 seaborn==0.11.0
 statsmodels==0.12.1
 tensorflow-probability==0.7.0
-tqdm==4.51.0
+tqdm==4.64.0
 urllib3==1.26.6
 
 # For machinable
