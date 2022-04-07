@@ -1,7 +1,7 @@
 tqdm
 fire==0.3.1
 regex==2020.11.13
-requests==2.25.0
+requests==2.27.1
 numpy==1.18.5
 pytest-pythonpath
 urllib3==1.26.2
