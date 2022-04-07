@@ -5,4 +5,4 @@ requests==2.25.0
 numpy==1.18.5
 pytest-pythonpath
 urllib3==1.26.2
-chardet==3.0.4
+chardet==4.0.0
