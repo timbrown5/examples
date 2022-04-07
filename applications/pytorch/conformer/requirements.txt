@@ -1,6 +1,6 @@
 fire==0.4.0
 pyyaml==6.0
-pandas==1.1.5
+pandas==1.4.2
 wandb==0.12.7
 pillow==8.4.0
 espnet==0.10.1
