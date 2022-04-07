@@ -4,5 +4,5 @@ regex==2020.11.13
 requests==2.25.0
 numpy==1.18.5
 pytest-pythonpath
-urllib3==1.26.2
+urllib3==1.26.5
 chardet==3.0.4
