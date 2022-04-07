@@ -1,7 +1,7 @@
 unidecode==1.1.1
 inflect==4.1.0
 soundfile==0.10.3.post1
-librosa==0.8.0
+librosa==0.9.1
 sox==1.4.1
 sentencepiece==0.1.94
 pandas==1.1.5
