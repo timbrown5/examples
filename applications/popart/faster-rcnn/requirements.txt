@@ -7,6 +7,6 @@ pycocotools
 onnx
 tqdm
 scipy
-PyYAML==5.4.1
+PyYAML==6.0
 torch==1.10.0+cpu
 torchvision==0.11.1+cpu

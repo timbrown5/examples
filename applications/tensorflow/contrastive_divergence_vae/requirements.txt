@@ -24,7 +24,7 @@ urllib3==1.26.6
 
 # For machinable
 pendulum==2.1.2
-PyYAML==5.4.1
+PyYAML==6.0
 fs==2.4.11
 fs-s3fs==1.1.1
 python-baseconv==1.2.2
