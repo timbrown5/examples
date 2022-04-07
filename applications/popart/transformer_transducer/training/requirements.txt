@@ -14,4 +14,4 @@ mpi4py>=3.0.3
 pytest==5.4.1
 torch==1.9.0
 --extra-index-url https://developer.download.nvidia.com/compute/redist 
-nvidia-dali-cuda110==0.28.0
+nvidia-dali-cuda110==0.31.0
