@@ -8,5 +8,5 @@ onnx==1.6.0
 tqdm==4.46.1
 six==1.15.0
 pytest==5.4.1
-pytest-pythonpath==0.7.3 
+pytest-pythonpath==0.7.4 
 
