@@ -11,7 +11,7 @@ onnx==1.8.1
 wandb==0.12.1
 numba>=0.52.0
 mpi4py>=3.0.3
-pytest==5.4.1
+pytest==5.4.3
 torch==1.9.0
 --extra-index-url https://developer.download.nvidia.com/compute/redist 
 nvidia-dali-cuda110==0.28.0
