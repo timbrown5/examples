@@ -1,4 +1,4 @@
-spektral==0.6.2
+spektral==1.1.0
 tensorboard-plugin-wit==1.7.0
 pytest==6.2.5
 pytest-pythonpath==0.7.3
