@@ -1,7 +1,7 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 fvcore==0.1.5.post20210727
 matplotlib>=3.3.0
-numpy==1.19.5
+numpy==1.22.0rc1
 pytest==6.2.5
 pytest-pythonpath>=0.7.3
 requests>=2.26.0
