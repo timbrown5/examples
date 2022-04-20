@@ -1,4 +1,4 @@
-numpy==1.18.5
+numpy==1.22.0rc1
 PyYAML==5.4.1
 kaldiio==2.17.2
 editdistance==0.5.3
