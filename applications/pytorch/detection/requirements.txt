@@ -1,5 +1,5 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
-fvcore==0.1.5.post20210727
+fvcore==0.1.5.post20220512
 matplotlib>=3.3.0
 numpy==1.19.5
 pytest==6.2.5
