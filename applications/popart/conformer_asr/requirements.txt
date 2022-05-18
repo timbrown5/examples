@@ -1,7 +1,7 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 numba==0.48.0
 numpy==1.18.5
-scipy==1.4.1
+scipy==1.8.1
 torchaudio==0.7.2
 librosa==0.7.2
 tqdm==4.46.1

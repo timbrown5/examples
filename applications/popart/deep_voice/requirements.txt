@@ -1,6 +1,6 @@
 numba==0.48.0
 numpy==1.18.5
-scipy==1.4.1
+scipy==1.8.1
 torchaudio==0.8.0
 librosa==0.7.2
 nltk==3.6.5
