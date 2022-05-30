@@ -5,7 +5,7 @@ tqdm
 matplotlib
 pandas
 seaborn
-pytest==6.2.5
+pytest==7.1.2
 scipy
 tensorboard
 jax
