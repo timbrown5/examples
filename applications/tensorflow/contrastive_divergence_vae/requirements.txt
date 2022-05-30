@@ -28,7 +28,7 @@ PyYAML==5.4.1
 fs==2.4.11
 fs-s3fs==1.1.1
 python-baseconv==1.2.2
-regex==2020.10.28
+regex==2022.4.24
 observable==1.0.3
 gitignore-parser==0.0.8
 
