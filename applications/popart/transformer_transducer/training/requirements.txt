@@ -1,5 +1,5 @@
 unidecode==1.1.1
-inflect==4.1.0
+inflect==6.2.0
 soundfile==0.10.3.post1
 librosa==0.8.0
 sox==1.4.1
